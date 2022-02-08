@@ -1,13 +1,13 @@
-public class HelloWorld {
-
+public class Cat {
     private String message;
 
-    public HelloWorld() {
+    public Cat() {
 
     }
 
     public String getMessage() {
-        return message;
+
+        return "meow";
     }
 
     public void setMessage(String message) {
